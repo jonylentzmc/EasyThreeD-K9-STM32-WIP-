@@ -1,3 +1,6 @@
+# DO NOT USE THIS FORK!, I AM EXPERIMENTING SOME CHANGES INTO THE FIRMWARE THAT AREN'T MEANT TO BE USED IN THE ORIGINAL PRINTER.
+# SEE https://github.com/schmttc/EasyThreeD-K7-STM32 FOR THE CURRENT FIRMWARE
+
 # Marlin 2 for EasyThreeD ET4000+ Board (STM32), K7 and K9 Printer Models
 This repository reflects my work on the EasyThreeD ET4000+ 3D printer mainboard.
 The K7 and K9 printers have been sold with a number of mainboards. My printer has the 32-bit board 'ET4000+', which is shared by the K9 and Nano and Dora printers from the same manufacturer, and so these files only apply to that model.
