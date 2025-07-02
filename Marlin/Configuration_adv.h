@@ -3839,7 +3839,7 @@
   #if PIN_EXISTS(BUTTON4)
     #define BUTTON4_HIT_STATE     HIGH
     #define BUTTON4_WHEN_PRINTING false
-    #define BUTTON4_GCODE         "G0 Z5\nG0 X100 Y0\nG0 Z0"
+    #define BUTTON4_GCODE         "G0 Z5\nG0 X15 Y0\nG0 Z0"
     #define BUTTON4_DESC          "Levelling Position 4"
   #endif
 
